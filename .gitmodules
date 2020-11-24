@@ -1,0 +1,6 @@
+[submodule "RustCommExperiments"]
+	path = RustCommExperiments
+	url = https://github.com/JimFawcett/RustCommExperiments
+[submodule "MPL"]
+	path = MPL
+	url = https://github.com/mwcorley79/MPL
