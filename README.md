@@ -9,6 +9,6 @@ Compare synchronous message-passing communication systems written in Rust and C+
 - This repository contains links to repositories holding the code:  
 
 https://github.com/JimFawcett/RustCommExperiments  
-https://github.com/mwcorley79/MPL  
+https://github.com/mwcorley79/MPL/tree/no-shared-ptr-rust-message-compatibility  
 
 Build instructions are provided in each of those repositories Read.me files.
