@@ -1,6 +1,6 @@
 # CommCompare
 
-https://JimFawcett.io/CommCompare.html
+https://JimFawcett.github.io/CommCompare.html
 
 Compare synchronous message-passing communication systems written in Rust and C++.  
 - These projects use synchronous bilateral socket communication between connectors and listeners, sending variable size messages to and from both endpoints.
