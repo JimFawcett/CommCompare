@@ -1,0 +1,19 @@
+Fri 12/11
+strawman podcast script
+Moderator introduces topic and presenters
+Topic:
+  comparison of Rust vs C++ performance based on implementations of socket-based communicators
+  Comparing thruput, safety, ease of construction, size and complexity, and ease of maintenance.
+
+Fawcett -goals and ground-rules
+Corley - MPL concept
+Fawcett - RustComm concept
+Fawcett & Corley - Performance comparisons
+Fawcett & Corley - Size and Complexity
+Fawcett - Safety
+Corley - Ease of maintenance
+Fawcett - Ease of Construction
+Fawcett & Corley - VERY BRIEF comparison of implementations.
+Fawcett & Corley - Results and Conclusions
+
+Moderator Q&A and wrapup
